@@ -30,3 +30,7 @@ E.g.: **foo/bar** and **foo/bar/one.txt** have conections. **two.txt** has no co
 Represents the connection and it meaning.
 
 E.g.: In the above example a regexp like ```.+\/**``` could be called Parent relation and actually should the one being used for generating the Connections.
+
+
+## Dashboard
+Contains as many sheets as necesary for representing the data. Could be used for Charts visualization.
