@@ -2,7 +2,7 @@
 Reports out of google sheet conected and related data.
 
 ## Brain
-Google sheet containing the data. All other sheets will be syncronized with this data one.
+Google sheet containing the data. All other sheets will show data out of this one. Is the only sheet that should be edited.
 
 E.g.: A folder estructure.
 - foo/bar/one.txt
